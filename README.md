@@ -1,55 +1,106 @@
-# 👋 Hey :)  I'm Mo7a!
+# 🛡️ Mo7a | Security Researcher & Developer
 
-# About Me
+**Cybersecurity Professional | Penetration Tester | Security Tool Developer**
 
-I'm a passionate **penetration tester** with a strong foundation in cybersecurity and programming. My work revolves around securing systems, uncovering vulnerabilities, and building tools to enhance pentesting processes.
-
-# 🔧 Skills & Expertise
-
-- **Pentesting & Cybersecurity**  
-  - CCNA 200-301 Certified  
-  - Creator of custom pentesting tools  
-  - Deep understanding of networking protocols and system security
-
-- **Programming Languages**  
-  - 🐍 Python (Primary language)  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-  - C++  
-  - Java ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
-
-- **Web Development**  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
-  - Full-stack development using **Laravel**  ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-  - Proficient in **SQL** and database management 
-
-- **Operating Systems**  
-  - Extensive experience with **Linux** systems ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
-
-
-- **Software Development**  
-  - Desktop application developer
+I specialize in building defensive security solutions and offensive security tools. My work focuses on developing practical security applications that address real-world threats, from antivirus protection to penetration testing utilities.
 
 ---
-# 🔭Actions
+
+## 🚀 Featured Project: Zashita Antivirus
+-world threats, f- AI-Powered Windows Antivirus
+
+-& Developer
+
+**Cybersecuri ML.NET-powered threat identification
+-loper
+
+**Cybersecurit Cryptographic file verification
+- Developer
+
+**Cybersecur Built with C# and WPF for optimal performance
+-Cybersecurity Professional Continuous system monitoring against viruses and trojans
+
+*Free, open-source Windows security solution*
+
+---
+
+## 🔧 Technical Stack
+
+### in building defensive securit![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-red)
+![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability%20Assessment-orange)
+![Network Security](https://img.shields.io/badge/-Network%20Security-blue)
+![CCNA Certified](https://img.shields.io/badge/CCNA-200--301-success)
+
+###tection to penetration testing ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+
+###us protection to penetration te![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
+###tion to penetration t![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Windows Security](https://img.shields.io/badge/Windows%20Security-0078D6?logo=windows&logoColor=white)
+
+---
+
+## 🛠️ Active Development
+
+###d threats, from anti- 🛡️ Mo7a | Security - Advanced penetration testing framework (Update in progress)
+-rofessional | Penetrati- Continuous improvement of AI detection algorithms
+-security Professional | Penetrati- Python-based tools for vulnerability assessment
+
+###ecurity Professional | Penet- Machine learning applications in malware detection
+- Network security protocol analysis
+- Automated vulnerability scanning methodologies
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisismo7a"/>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thisismo7a&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisismo7a&layout=compact&theme=dark)
+
 </div>
 
+---
 
+## 📜 Certifications
+-indows Antivirus
 
-# 🚀 Current Projects
-
-- **BULLETMAKER3** New Update comming ...
-- Building advanced pentesting tools to streamline vulnerability assessment.  
-- Exploring new methodologies in cybersecurity.  
-- Contributing to open-source projects in security and development.
+- **AI Malware Detection**: ML.NET-p- Ongoing pursuit of advanced security certifications
 
 ---
 
+## 💼 Professional Interests
+-ester | Security Tool Developer**
 
+I special- 🛡️ Mo7a | Security Researcher &- 🛡️ Mo7a | Security Researcher- 🛡️ Mo7a | Security Researcher & Devel- 🛡️ Mo7a | Security Researcher & D
+---
 
-## 📫 Get in Touch
+## 📫 Connect With Me
 
-- 💼 [Telegram](t.me/thisismo7a) 
-- ✉️ Email: mo7a@duck.com 
+[![Email](https://img.shields.io/badge/Email-mo7a@duck.com-blue?logo=protonmail)](mailto:mo7a@duck.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@thisismo7a-blue?logo=telegram)](https://t.me/thisismo7a)
+[![GitHub](https://img.shields.io/badge/GitHub-Thisismo7a-black?logo=github)](https://github.com/Thisismo7a)
 
 ---
+
+>ties.
+
+---
+
+## 🚀 Featured Project: Zashita Antivirus
+
+**🛡️ Zashita** - AI-Powered Wind
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Thisismo7a&color=blueviolet)
+
+</div>
