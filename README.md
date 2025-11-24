@@ -1,106 +1,101 @@
-# 🛡️ Mo7a | Security Researcher & Developer
+# 👋 Hey :) I'm Mo7a!
 
+# 🛡️ Security Researcher & Developer  
 **Cybersecurity Professional | Penetration Tester | Security Tool Developer**
 
-I specialize in building defensive security solutions and offensive security tools. My work focuses on developing practical security applications that address real-world threats, from antivirus protection to penetration testing utilities.
+I specialize in offensive and defensive security: pentesting, malware analysis, AI-powered threat detection, and building advanced cybersecurity tools.  
+I develop practical security solutions that solve real-world problems—from penetration testing utilities to antivirus systems powered by machine learning.
 
 ---
 
-## 🚀 Featured Project: Zashita Antivirus
--world threats, f- AI-Powered Windows Antivirus
+# 🔥 Featured Project: Zashita Antivirus
 
--& Developer
+### **🛡️ Zashita — AI-Powered Windows Antivirus**
+A free, open-source Windows security solution focusing on real-time protection and ML-based malware detection.
 
-**Cybersecuri ML.NET-powered threat identification
--loper
+**Key Features:**
+- 🔍 **ML.NET-powered threat identification**  
+- 🔐 **Cryptographic file verification & integrity checking**  
+- ⚡ **Built with C# and WPF for fast performance**  
+- 🛡️ **Continuous monitoring against viruses, trojans, and malicious executables**  
+- 🧠 **Smart heuristic scanning**
 
-**Cybersecurit Cryptographic file verification
-- Developer
-
-**Cybersecur Built with C# and WPF for optimal performance
--Cybersecurity Professional Continuous system monitoring against viruses and trojans
-
-*Free, open-source Windows security solution*
+**Status:** 🚧 *Active development — new updates coming soon!*
 
 ---
 
-## 🔧 Technical Stack
+# 🔧 Skills & Expertise
 
-### in building defensive securit![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-red)
-![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability%20Assessment-orange)
-![Network Security](https://img.shields.io/badge/-Network%20Security-blue)
-![CCNA Certified](https://img.shields.io/badge/CCNA-200--301-success)
+## ⚔️ Pentesting & Cybersecurity
+- CCNA 200-301 Certified  
+- Developer of multiple pentesting tools  
+- Vulnerability assessment & exploitation  
+- Strong knowledge of networking protocols  
+- Malware detection (LightGBM, ML.NET)  
+- Security automation & tooling
 
-###tection to penetration testing ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+## 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
-###us protection to penetration te![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?logo=.net&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?logo=.net&logoColor=white)
+## 🌐 Web Development
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-###tion to penetration t![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+- Full-stack developer (Laravel + Vue.js)  
+- SQL database design & management  
+
+## 💻 Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Windows Security](https://img.shields.io/badge/Windows%20Security-0078D6?logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)
+
+- Expert Linux user  
+- Desktop app development (Python, C#)
 
 ---
 
-## 🛠️ Active Development
+# 🛠️ Current Projects
 
-###d threats, from anti- 🛡️ Mo7a | Security - Advanced penetration testing framework (Update in progress)
--rofessional | Penetrati- Continuous improvement of AI detection algorithms
--security Professional | Penetrati- Python-based tools for vulnerability assessment
-
-###ecurity Professional | Penet- Machine learning applications in malware detection
-- Network security protocol analysis
-- Automated vulnerability scanning methodologies
+- **Zashita Antivirus (AI-powered)** → major update in progress  
+- **BULLETMAKER3** → new update coming soon  
+- Python tools for vulnerability assessment  
+- Research in machine learning for malware classification  
+- Advanced pentesting framework development  
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thisismo7a&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thisismo7a&theme=dark)
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisismo7a&layout=compact&theme=dark)
 
-</div>
-
----
-
-## 📜 Certifications
--indows Antivirus
-
-- **AI Malware Detection**: ML.NET-p- Ongoing pursuit of advanced security certifications
-
----
-
-## 💼 Professional Interests
--ester | Security Tool Developer**
-
-I special- 🛡️ Mo7a | Security Researcher &- 🛡️ Mo7a | Security Researcher- 🛡️ Mo7a | Security Researcher & Devel- 🛡️ Mo7a | Security Researcher & D
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-mo7a@duck.com-blue?logo=protonmail)](mailto:mo7a@duck.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@thisismo7a-blue?logo=telegram)](https://t.me/thisismo7a)
-[![GitHub](https://img.shields.io/badge/GitHub-Thisismo7a-black?logo=github)](https://github.com/Thisismo7a)
-
----
-
->ties.
-
----
-
-## 🚀 Featured Project: Zashita Antivirus
-
-**🛡️ Zashita** - AI-Powered Wind
-<div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=Thisismo7a&color=blueviolet)
 
 </div>
+
+---
+
+# 📜 Certifications
+- **CCNA 200-301**  
+- **AI Malware Detection (ML.NET)**  
+- More advanced security certs in progress…
+
+---
+
+# 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-mo7a@duck.com-blue?logo=protonmail)](mailto:mo7a@duck.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@thisismo7a-blue?logo=telegram)](https://t.me/thisismo7a)  
+[![GitHub](https://img.shields.io/badge/GitHub-Thisismo7a-black?logo=github)](https://github.com/Thisismo7a)
+
+---
