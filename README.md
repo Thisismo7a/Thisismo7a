@@ -1,5 +1,9 @@
 # 👋 Hey :) I'm Mo7a!
 
+<div align="center">
+  <img src="https://media.tenor.com/ojkiJ2mHaC8AAAAC/the-world-is-yours-ship.gif" width="350">
+</div>
+
 # 🛡️ Security Researcher & Developer  
 **Cybersecurity Professional | Penetration Tester | Security Tool Developer**
 
